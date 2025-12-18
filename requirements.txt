@@ -4,3 +4,4 @@ pillow
 numpy<2.0.0
 ultralytics
 streamlit-drawable-canvas
+opencv-python-headless
